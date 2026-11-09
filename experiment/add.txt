@@ -1,0 +1,9 @@
+open vs code and open new folder . type these commands in terminal 
+
+step 1: To create new folder , type "mkdir {folder name}" 
+        
+step 2: To access the folder ,type "cd {folder name}" 
+
+step 3: To create new file ,type "echo.>{file name}"
+now the file is created within the above folder .
+
