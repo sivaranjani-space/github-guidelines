@@ -1,1 +1,17 @@
+git init 
+- To initialize our empty folder
 
+git remote add origin "github link" 
+- To connect the repositories to the folder
+
+git add .
+- To add all files 
+
+git reset .
+-to remove all added files
+
+git commit -m "commit msg" 
+- To indicate the status of the work
+
+git push origin master
+-to push the files to the github repository
